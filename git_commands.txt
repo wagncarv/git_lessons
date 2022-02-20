@@ -1,0 +1,14 @@
+=========================== PROJETO =========================
+git init = iniciar um novo projeto gerenciado pelo git
+git status = estado atual do projeto
+git add <nome-do-arquivo> ou . ou -A = inserir arquivo na área de transferência
+git commit -m "<mensagem>" = gravar arquivos no repositório git local
+git commit -am = gravar arquivos no repositório git local
+git push = enviar arquivos para o repositório na internet
+git log = exibe relatório atual do projeto
+
+
+
+============================ CONFIG ==========================
+git config --global -l = listar todas as configurações
+git config core.editor notepad = escolher editor preferencial git
