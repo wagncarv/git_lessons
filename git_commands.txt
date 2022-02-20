@@ -7,6 +7,7 @@ git commit -am = gravar arquivos no repositório git local
 git push = enviar arquivos para o repositório na internet
 git log = exibe relatório atual do projeto
 git checkout <numero-do-commit> = navega até o commit indicado
+git checkout master/main = voltar para o commit mais atual 
 
 
 
